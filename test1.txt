@@ -8,5 +8,7 @@ I added this file in my text editor!!!
 Adding a new line.
 And another.
 
+I am now adding lines to demonstrate the use of GitHub Desktop.
+
 
 HAHA!
